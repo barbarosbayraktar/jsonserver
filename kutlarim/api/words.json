@@ -1,0 +1,6 @@
+{
+    "words": [
+      { "id": 1, "content": "lorem ipsum", "category": "dogumgunu" },
+      { "id": 2, "content": "lorem ipsum 2", "category": "dogumgunu" }
+    ]
+  }

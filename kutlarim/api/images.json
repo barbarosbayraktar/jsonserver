@@ -1,8 +1,8 @@
 {
     "images": [
-      { "id": 1, "url": "https://github.com/barbarosbayraktar/jsonserver/blob/master/kutlarim/assets/images/congratulations.jpg", "author": "typicode" },
-      { "id": 2, "url": "https://github.com/barbarosbayraktar/jsonserver/blob/master/kutlarim/assets/images/congratulations02.jpg", "author": "typicode" },
-      { "id": 2, "url": "https://github.com/barbarosbayraktar/jsonserver/blob/master/kutlarim/assets/images/congratulations03.jpg", "author": "typicode" }
+      { "id": 1, "url": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/kutlarim/assets/images/congratulations.jpg", "author": "typicode" },
+      { "id": 2, "url": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/kutlarim/assets/images/congratulations02.jpg", "author": "typicode" },
+      { "id": 2, "url": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/kutlarim/assets/images/congratulations03.jpg", "author": "typicode" }
     ]
   }
   
