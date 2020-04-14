@@ -1,7 +1,5 @@
 {
-    "version": {
-      "number" : 123456789
-    },
+    "version": 12345678,
     "data": [
       { "id": 1,
         "title": "Hypoglykamie - Was ist das?",
