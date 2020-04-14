@@ -1,0 +1,130 @@
+{
+  "version": 12345678,
+  "language": [
+    {
+      "id": 1,
+      "title": "English",
+      "flag": "",
+      "flagHover": "",
+      "slug": "en",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "French",
+      "flag": "",
+      "flagHover": "",
+      "slug": "fr",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Italian",
+      "flag": "",
+      "flagHover": "",
+      "slug": "it",
+      "active": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Im Notfall",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "In der Apotheke",
+      "active": true
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "german": "Mir ist schwindelig",
+      "active": true,
+      "category_id": 1,
+      "translate": [
+        {
+          "translate_text": "I feel dizzy.",
+          "translate_language": {
+            "language_id": 1,
+            "slug" : "en"
+          }
+        },
+        {
+          "translate_text": "J'ai le vertige.",
+          "translate_language": {
+            "language_id": 2,
+            "slug" : "fr"
+          }
+        },
+        {
+          "translate_text": "Ho le vertigini.",
+          "translate_language": {
+            "language_id": 3,
+            "slug" : "it"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "german": "Bitte rufen Sie einen Krankenwagen.",
+      "active": true,
+      "category_id": 1,
+      "translate": [
+        {
+          "translate_text": "Please call an ambulance.",
+          "translate_language": {
+            "language_id": 1,
+            "slug" : "en"
+          }
+        },
+        {
+          "translate_text": "Appelez une ambulance si'il vous plait.",
+          "translate_language": {
+            "language_id": 2,
+            "slug" : "fr"
+          }
+        },
+        {
+          "translate_text": "Si prega di chiamare un'ambulanza.",
+          "translate_language": {
+            "language_id": 3,
+            "slug" : "it"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "german": "Mein Insulin heißt.",
+      "active": true,
+      "category_id": 2,
+      "translate": [
+        {
+          "translate_text": "My insulin is called...",
+          "translate_language": {
+            "language_id": 1,
+            "slug" : "en"
+          }
+        },
+        {
+          "translate_text": "Mon insuline s'appelle...",
+          "translate_language": {
+            "language_id": 2,
+            "slug" : "fr"
+          }
+        },
+        {
+          "translate_text": "La mia insulina si chiama.",
+          "translate_language": {
+            "language_id": 3,
+            "slug" : "it"
+          }
+        }
+      ]
+    }
+  ]
+}
