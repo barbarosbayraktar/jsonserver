@@ -4,24 +4,24 @@
     {
       "id": 1,
       "title": "English",
-      "flag": "icon-abroad-en-flag.png",
-      "flagHover": "icon-abroad-en-flag-hover.png",
+      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-en-flag.png",
+      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-en-flag-hover.png",
       "slug": "en",
       "active": true
     },
     {
       "id": 2,
       "title": "French",
-      "flag": "icon-abroad-fr-flag.png",
-      "flagHover": "icon-abroad-fr-flag-hover.png",
+      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-fr-flag.png",
+      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-fr-flag-hover.png",
       "slug": "fr",
       "active": true
     },
     {
       "id": 3,
       "title": "Italian",
-      "flag": "icon-abroad-it-flag.png",
-      "flagHover": "icon-abroad-it-flag-hover.png",
+      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-it-flag.png",
+      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-it-flag-hover.png",
       "slug": "it",
       "active": true
     }
