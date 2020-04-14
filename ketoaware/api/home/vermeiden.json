@@ -1,25 +1,24 @@
 {
-    "version" : 1234566,
     "data": [
       { "id": 1,
         "title": "Hypoglykamie - Was ist das?",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
-        "active" : true
+        "active" : "true"
       },
       { "id": 2,
         "title": "Was passiert bei einer Hypoglykamie?",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-        "active" : true
+        "active" : "true"
       },
       { "id": 3,
         "title": "Bin ich gefahrdet?",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
-        "active" : true
+        "active" : "true"
       },
       { "id": 4,
         "title": "Wie kann ich vorbeugen?",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-        "active" : true
+        "active" : "true"
       }
     ]
   }
