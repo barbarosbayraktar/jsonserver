@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Barbaros",
+      "surname": "Bayraktar",
+      "email": "hi.barbaros@gmail.com",
+      "password": "123456",
+      "isUser" : true
+    },
+    {
+        "id": 2,
+        "name": "Onur",
+        "surname": "Irmak",
+        "email": "onur.irmak@walks.com.tr",
+        "password": "123456",
+        "isUser" : false
+      }
+  ]
+}
