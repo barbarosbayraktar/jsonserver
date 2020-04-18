@@ -2,22 +2,22 @@
     "words": [
       { "id": 1, 
         "content": "Hak edilmiş başarılar için söylenecek tek söz vardır. Tebrik ederim ve bir temenni başarılarının devamını dilerim.", 
-        "category": "dogumgunu", 
+        "category": "Doğum Günü",
         "user" : false 
       },
       { "id": 2, 
         "content": "Birlikte gülebilmek, gezebilmek, mutlu olabilmek, şaşkınlıklar ve sevinçleri yaşayabilmek için ve en önemlisi birbirinizi hep sevebilmek için bolca zamanınız olmasını diliyorum. Bir bütün olmak için birleşen elleriniz ve sevgiyle bakan gözleriniz birbirinizden hiç ayrılmasın! Mutluluklar..", 
-        "category": "dogumgunu", 
+        "category": "Kurban Bayramı", 
         "user" : false 
       },
       { "id": 3, 
         "content": "Ramazan Bayramı’nın milletimizin diriliğine, mazlumların kurtuluşuna, insanlığın huzur, barış ve hidayetine vesile olmasını dileriz.", 
-        "category": "ramazanbayrami", 
+        "category": "Ramazan Bayramı", 
         "user" : true 
       },
       { "id": 4, 
         "content": "Kardeşliğin doğduğu, sevgilerin birleştiği, belki durgun, belki yorgun, yine de mutlu, yine de umutlu, yine de sevgi dolu nice bayramlara…", 
-        "category": "ramazanbayrami", 
+        "category": "Ramazan Bayramı", 
         "user" : true 
       }
     ]
