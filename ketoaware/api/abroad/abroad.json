@@ -3,6 +3,14 @@
   "language": [
     {
       "id": 1,
+      "title": "German",
+      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag.png",
+      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag-hover.png",
+      "slug": "ge",
+      "active": true
+    },
+    {
+      "id": 11,
       "title": "English",
       "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-en-flag.png",
       "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-en-flag-hover.png",
@@ -10,7 +18,7 @@
       "active": true
     },
     {
-      "id": 2,
+      "id": 22,
       "title": "French",
       "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-fr-flag.png",
       "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-fr-flag-hover.png",
@@ -18,7 +26,7 @@
       "active": true
     },
     {
-      "id": 3,
+      "id": 33,
       "title": "Italian",
       "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-it-flag.png",
       "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-it-flag-hover.png",
@@ -46,23 +54,30 @@
       "category_id": 1,
       "translate": [
         {
-          "translate_text": "I feel dizzy.",
+          "translate_text": "Mir ist schwindelig",
           "translate_language": {
             "language_id": 1,
+            "slug" : "ge"
+          }
+        },
+        {
+          "translate_text": "I feel dizzy.",
+          "translate_language": {
+            "language_id": 11,
             "slug" : "en"
           }
         },
         {
           "translate_text": "J'ai le vertige.",
           "translate_language": {
-            "language_id": 2,
+            "language_id": 22,
             "slug" : "fr"
           }
         },
         {
           "translate_text": "Ho le vertigini.",
           "translate_language": {
-            "language_id": 3,
+            "language_id": 33,
             "slug" : "it"
           }
         }
@@ -75,23 +90,30 @@
       "category_id": 1,
       "translate": [
         {
-          "translate_text": "Please call an ambulance.",
+          "translate_text": "Bitte rufen Sie einen Krankenwagen.",
           "translate_language": {
             "language_id": 1,
+            "slug" : "ge"
+          }
+        },
+        {
+          "translate_text": "Please call an ambulance.",
+          "translate_language": {
+            "language_id": 11,
             "slug" : "en"
           }
         },
         {
           "translate_text": "Appelez une ambulance si'il vous plait.",
           "translate_language": {
-            "language_id": 2,
+            "language_id": 22,
             "slug" : "fr"
           }
         },
         {
           "translate_text": "Si prega di chiamare un'ambulanza.",
           "translate_language": {
-            "language_id": 3,
+            "language_id": 33,
             "slug" : "it"
           }
         }
@@ -104,23 +126,30 @@
       "category_id": 2,
       "translate": [
         {
-          "translate_text": "My insulin is called...",
+          "translate_text": "Mein Insulin heißt.",
           "translate_language": {
             "language_id": 1,
+            "slug" : "ge"
+          }
+        },
+        {
+          "translate_text": "My insulin is called...",
+          "translate_language": {
+            "language_id": 11,
             "slug" : "en"
           }
         },
         {
           "translate_text": "Mon insuline s'appelle...",
           "translate_language": {
-            "language_id": 2,
+            "language_id": 22,
             "slug" : "fr"
           }
         },
         {
           "translate_text": "La mia insulina si chiama.",
           "translate_language": {
-            "language_id": 3,
+            "language_id": 33,
             "slug" : "it"
           }
         }
