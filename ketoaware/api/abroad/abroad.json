@@ -4,8 +4,8 @@
     {
       "id": 1,
       "title": "German",
-      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag.png",
-      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag-hover.png",
+      "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-de-flag.png",
+      "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-de-flag-hover.png",
       "slug": "de",
       "active": true
     },
