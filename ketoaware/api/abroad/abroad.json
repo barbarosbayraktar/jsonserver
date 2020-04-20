@@ -55,31 +55,23 @@
       "translate": [
         {
           "translate_text": "Mir ist schwindelig",
-          "translate_language": {
-            "language_id": 1,
+          "language_id": 1,
             "slug" : "de"
-          }
         },
         {
           "translate_text": "I feel dizzy.",
-          "translate_language": {
-            "language_id": 11,
+          "language_id": 11,
             "slug" : "en"
-          }
         },
         {
           "translate_text": "J'ai le vertige.",
-          "translate_language": {
-            "language_id": 22,
+          "language_id": 22,
             "slug" : "fr"
-          }
         },
         {
           "translate_text": "Ho le vertigini.",
-          "translate_language": {
-            "language_id": 33,
+          "language_id": 33,
             "slug" : "it"
-          }
         }
       ]
     },
@@ -91,31 +83,23 @@
       "translate": [
         {
           "translate_text": "Bitte rufen Sie einen Krankenwagen.",
-          "translate_language": {
-            "language_id": 1,
-            "slug" : "de"
-          }
+          "language_id": 1,
+          "slug" : "de"
         },
         {
           "translate_text": "Please call an ambulance.",
-          "translate_language": {
-            "language_id": 11,
+          "language_id": 11,
             "slug" : "en"
-          }
         },
         {
           "translate_text": "Appelez une ambulance si'il vous plait.",
-          "translate_language": {
-            "language_id": 22,
+          "language_id": 22,
             "slug" : "fr"
-          }
         },
         {
           "translate_text": "Si prega di chiamare un'ambulanza.",
-          "translate_language": {
-            "language_id": 33,
+          "language_id": 33,
             "slug" : "it"
-          }
         }
       ]
     },
@@ -127,31 +111,23 @@
       "translate": [
         {
           "translate_text": "Mein Insulin heißt.",
-          "translate_language": {
-            "language_id": 1,
+          "language_id": 1,
             "slug" : "de"
-          }
         },
         {
           "translate_text": "My insulin is called...",
-          "translate_language": {
-            "language_id": 11,
+          "language_id": 11,
             "slug" : "en"
-          }
         },
         {
           "translate_text": "Mon insuline s'appelle...",
-          "translate_language": {
-            "language_id": 22,
+          "language_id": 22,
             "slug" : "fr"
-          }
         },
         {
           "translate_text": "La mia insulina si chiama.",
-          "translate_language": {
-            "language_id": 33,
+          "language_id": 33,
             "slug" : "it"
-          }
         }
       ]
     }
