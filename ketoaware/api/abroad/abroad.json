@@ -6,7 +6,7 @@
       "title": "German",
       "flag": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag.png",
       "flagHover": "https://raw.githubusercontent.com/barbarosbayraktar/jsonserver/master/ketoaware/assets/images/icon-abroad-gr-flag-hover.png",
-      "slug": "ge",
+      "slug": "de",
       "active": true
     },
     {
@@ -57,7 +57,7 @@
           "translate_text": "Mir ist schwindelig",
           "translate_language": {
             "language_id": 1,
-            "slug" : "ge"
+            "slug" : "de"
           }
         },
         {
@@ -93,7 +93,7 @@
           "translate_text": "Bitte rufen Sie einen Krankenwagen.",
           "translate_language": {
             "language_id": 1,
-            "slug" : "ge"
+            "slug" : "de"
           }
         },
         {
@@ -129,7 +129,7 @@
           "translate_text": "Mein Insulin heißt.",
           "translate_language": {
             "language_id": 1,
-            "slug" : "ge"
+            "slug" : "de"
           }
         },
         {
