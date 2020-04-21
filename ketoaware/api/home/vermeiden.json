@@ -6,13 +6,13 @@
           {
             "title": "Hypoglycemia - What is it?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "en"
+            "language" : "en"
           }
           ,
           {
             "title": "Hypoglykamie - Was ist das?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "de"
+            "language" : "de"
           }
         ],
         "active" : true,
@@ -23,13 +23,13 @@
           {
             "title": "What happens to Hypoglycemia?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "en"
+            "language" : "en"
           }
           ,
           {
             "title": "Was passiert bei einer Hypoglykamie?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "de"
+            "language" : "de"
           }
         ],
         "active" : true,
@@ -40,13 +40,13 @@
           {
             "title": "I'm at risk?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "en"
+            "language" : "en"
           }
           ,
           {
             "title": "Bin ich gefahrdet?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "de"
+            "language" : "de"
           }
         ],
         "active" : true,
@@ -57,13 +57,13 @@
           {
             "title": "How can I prevent it?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "en"
+            "language" : "en"
           }
           ,
           {
             "title": "Wie kann ich vorbeugen?",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
-            "category" : "de"
+            "language" : "de"
           }
         ],
         "active" : true,
