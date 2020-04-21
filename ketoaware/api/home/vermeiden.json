@@ -2,26 +2,70 @@
     "version": 123456710,
     "data": [
       { "id": 1,
-        "title": "Hypoglykamie - Was ist das?",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+        "translate_text":[
+          {
+            "title": "Hypoglycemia - What is it?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "en"
+          }
+          ,
+          {
+            "title": "Hypoglykamie - Was ist das?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "de"
+          }
+        ],
         "active" : true,
         "sglt" : true
       },
       { "id": 2,
-        "title": "Was passiert bei einer Hypoglykamie?",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "translate_text":[
+          {
+            "title": "What happens to Hypoglycemia?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "en"
+          }
+          ,
+          {
+            "title": "Was passiert bei einer Hypoglykamie?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "de"
+          }
+        ],
         "active" : true,
         "sglt" : true
       },
       { "id": 3,
-        "title": "Bin ich gefahrdet?",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate",
+        "translate_text":[
+          {
+            "title": "I'm at risk?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "en"
+          }
+          ,
+          {
+            "title": "Bin ich gefahrdet?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "de"
+          }
+        ],
         "active" : true,
         "sglt" : false
       },
       { "id": 4,
-        "title": "Wie kann ich vorbeugen?",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "translate_text":[
+          {
+            "title": "How can I prevent it?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "en"
+          }
+          ,
+          {
+            "title": "Wie kann ich vorbeugen?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+            "category" : "de"
+          }
+        ],
         "active" : true,
         "sglt" : true
       }
